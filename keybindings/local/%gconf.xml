@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="rename_tab" mtime="1508158843" type="string">
+		<stringvalue>Pause</stringvalue>
+	</entry>
+	<entry name="toggle_fullscreen" mtime="1497452017" type="string">
+		<stringvalue>&lt;Shift&gt;F11</stringvalue>
+	</entry>
+</gconf>
